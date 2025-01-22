@@ -1,4 +1,4 @@
-package jungol;
+package jungol.정리;
 
 public class Main520 {
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
-package day10;
+package day10.dto;
 //데이터 클래스
-import java.util.Date;
 
 public class MovieDTO {
     //영화제목

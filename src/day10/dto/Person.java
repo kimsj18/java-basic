@@ -1,11 +1,9 @@
-package day10;
-
-import java.sql.SQLOutput;
+package day10.dto;
 
 public class Person {
-    public String name;
-    public int age;
-    public String phone;
+    private String name;
+    private int age;
+    private String phone;
     // 생성자 오버로딩 한 경우 컴파일러를 자동으로 기본생성자를 생성해 주지 않으므로, 필요시 개발자가 직접 기술해 주어야 한다.
     public Person(){}       //default constructor 기본생성자 : 만약 개발자가 기술해 놓지 않으면 컴파일시 컴파일러가 생성해준다.
     public Person(String name, int age, String phone){

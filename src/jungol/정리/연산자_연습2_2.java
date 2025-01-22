@@ -1,4 +1,4 @@
-package jungol;
+package jungol.정리;
 
 public class 연산자_연습2_2 {
     public static void main(String[] args) {

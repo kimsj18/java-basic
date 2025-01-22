@@ -1,6 +1,6 @@
 package jungol.반복제어문2;
 
-public class 자가7질문 {
+public class 자가7 {
     public static void main(String[] args) {
         int a=0;
         for(int i=1;i<=5;i++){

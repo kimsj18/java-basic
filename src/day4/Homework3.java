@@ -1,6 +1,6 @@
 package day4;
 
-public class Homeword {
+public class Homework3 {
     public static void main(String[] args) {
         int pencils = 534;
         int students = 30;

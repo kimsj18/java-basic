@@ -1,8 +1,8 @@
-package day10;
+package day10.AAA;
 
 public class AAA {
 
-    double ddd;
+    private double ddd;
     private String name;
     public String ssn;
 
@@ -10,7 +10,17 @@ public class AAA {
         return name;
     }
 
+    public double getDdd() {
+        return ddd;
+    }
+
+    public void setDdd(double ddd) {
+        this.ddd = ddd;
+    }
+
     public void setName(String name) {
         this.name = name;
+
+
     }
 }

@@ -1,7 +1,4 @@
-package jungol;
-
-import java.util.Scanner;
-import java.util.Spliterator;
+package jungol.정리;
 
 public class Main9019 {
     public static void main(String[] args) {

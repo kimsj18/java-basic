@@ -1,4 +1,4 @@
-package day8.ioEx;
+package day8;
 
 public class Test08 {
     public static void main(String[] args) {

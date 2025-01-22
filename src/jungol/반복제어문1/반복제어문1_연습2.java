@@ -1,4 +1,4 @@
-package jungol;
+package jungol.반복제어문1;
 
 public class 반복제어문1_연습2 {
     public static void main(String[] args) {

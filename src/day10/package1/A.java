@@ -1,4 +1,4 @@
-package day10;
+package day10.package1;
 
 public class A {
     //필드 선언

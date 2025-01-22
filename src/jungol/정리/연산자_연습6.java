@@ -1,4 +1,4 @@
-package jungol;
+package jungol.정리;
 
 
 import java.util.Scanner;

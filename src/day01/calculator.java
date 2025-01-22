@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class calculator {
         //1 + 1 =?
     public static void main(String[] args) {
-        //1. 데이터 자유 입력\
+        //1. 데이터 자유 jungol.입력\
         Scanner in = new Scanner(System.in);
         System.out.println("first number input: ");
             int a = in.nextInt();  //1

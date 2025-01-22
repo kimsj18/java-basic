@@ -1,4 +1,4 @@
-package jungol;
+package jungol.입력;
 
 import java.util.Scanner;
 
