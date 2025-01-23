@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasicBook/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamWork_Practice/Study.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/BestVOModeling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/MovieVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/openTest/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11/openTest/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/AllStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/ArrayCapByforEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/SingletonEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/SingletonEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/SingletonHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/SingletonStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/WeekMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/개념설명" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dao/CarDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dao/CarDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -397,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737509822953</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1737619026528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737619026528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
