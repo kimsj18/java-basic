@@ -8,11 +8,13 @@ public class CarMain {
 
     public static void main(String[] args) {
         CarDTO car1 = new CarDTO();
+        System.out.println(car1);
         Tire tire = new Tire();
         tire.setModel("한국타이어");
         CarDTO car2 = new CarDTO("캐스퍼",tire);
         CarDAO carDao = new CarDAO(car2);
         carDao.insert();
+        System.out.println(car2);
         carDao.update();
         carDao.select();
         carDao.update();

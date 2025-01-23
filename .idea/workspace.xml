@@ -4,252 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;">
+    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasicBook/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TeamWork_Practice/Study.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/BestVOModeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/MovieVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/openTest/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11/openTest/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/AllStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/ArrayCapByforEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/SingletonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/SingletonEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/SingletonHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/SingletonStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/WeekMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/개념설명" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Quiz1" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Quiz1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/AAA/AAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/AAA/AAA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/AAAMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/AAAMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/AccessModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day10/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/CarMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/InputMovieSc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/InputMovieSc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/MovieMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/MovieMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/PersonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/car/CarDao01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/car/CarDao01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/car/CarDto01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/car/CarDto01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/car/CarMain01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/car/CarMain01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day10/dao/CarDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dao/CarDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/CarDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/CarDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/MemberDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/MovieDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/MovieDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/dto/bookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/dto/bookDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/package1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/package1/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/package1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/package1/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/package2/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/package3/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/package3/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day10/package3/A_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day10/package3/A_Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BooleanEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/BooleanEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/CharEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/CharEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/FloatDoubleEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/FloatDoubleEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/FourArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/FourArithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/HelloFava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/HelloFava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/Var1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/Var1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/addSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/addSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/class022" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/class022" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/class_02" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/class_02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/class_day02" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/class_day02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/class_day2" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/class_day2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/integerLiteralEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/integerLiteralEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/tlftmq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/tlftmq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/totalcalss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/totalcalss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/CalculatorMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/PrimitiveAndStringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/PrimitiveAndStringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/PromotionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/PromotionEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/ScannerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/ScannerEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/StringConcatEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/StringConcatEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/day3" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/day3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/moningtest" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/moningtest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/moningtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/moningtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/sdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/sdf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/teat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/teat2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/AssignmentOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/AssignmentOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/BitOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/BitOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/CompareOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/CompareOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/Homework7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/Homework7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/InfinityAndNaNCheckEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/InfinityAndNaNCheckEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/LogicalOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/LogicalOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/OverflowUnderflowEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/OverflowUnderflowEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4/SignOperatorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4/SignOperatorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/ConditionEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/ConditionEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/DoWhileEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/DoWhileEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/LoopEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/LoopEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/LoopEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/LoopEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/LoopStarEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/LoopStarEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Loop_ForEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/Loop_ForEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/WhileEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/WhileEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/class_control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/class_control.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/sdfsf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/sdfsf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/스위치Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/스위치Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/오픈테스트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/오픈테스트.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/BreajEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/BreajEx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/BreakEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/BreakEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/ContinueEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/ContinueEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/DoWhileEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/DoWhileEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/KeyControlEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/KeyControlEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day6/RandomEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/RandomEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/RefVarEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/RefVarEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/StringEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/StringEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/StringEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/StringEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/StringStringBufferStringBuilderEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/StringStringBufferStringBuilderEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/Test_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/Test_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/PerformenceEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/PerformenceEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/StringBufferEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/StringBufferEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/StringPerfoEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/StringPerfoEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/StringSpritEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/StringSpritEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/StringTokenEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/StringTokenEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/Test07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/Test07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/Test08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/Test09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/Test099.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/Test099.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/array/ArrayEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/array/ArrayEx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/array/MultiArrayEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/array/MultiArrayEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8/ioEx/BufferdReaderWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8/ioEx/BufferdReaderWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/CatMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/CatMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/EncapsulatonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/EncapsulatonMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/Example01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/Example01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/ParentCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/ParentCat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/Welcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/exampleTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/exampleTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9/exampleTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9/exampleTest10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문1_자가4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문_연습3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/반복제어문_연습3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/연습4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/연습4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/연습5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/연습5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/연습5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/연습5_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/자가5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/자가5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/자가6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/자가6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/형성1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/형성1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/형성2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/형성2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/형성3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/형성3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/형성4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/형성4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문1/형성5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문1/형성5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/연습8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/연습8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/자가8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/자가8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성10다시.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성10다시.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문2/형성9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문2/형성9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/Main549.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/Main549.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/Main551.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/Main551.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/Main553.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/Main553.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/Main554.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/Main554.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/Main634.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/Main634.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/test123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/test123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/자가7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/자가7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/형성1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/형성1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/형성1다시.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/형성1다시.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/형성2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/형성2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/형성3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/형성3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/반복제어문3/형성4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/반복제어문3/형성4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/연습7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/연습7_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열1/자가6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열1/자가6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/배열2/연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/배열2/연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/선택제어문_연습9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/형성1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/형성1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/형성2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/형성2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/형성3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/형성3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/형성4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/형성4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/선택제어문/형성5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/선택제어문/형성5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/입력/입력_연습7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/입력/입력_연습7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/입력/입력_연습8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/입력/입력_연습8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/입력/입력_자가6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/입력/입력_자가6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/입력/입력_자가7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/입력/입력_자가7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main509.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main510.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main510.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main511.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main511.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main512.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main512.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main513.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main513.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main518.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main519.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main519.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main520.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main520.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main522.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main522.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9011.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9022.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9022.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/Main9023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/Main9023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/re.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/re.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_연습2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_연습2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/반복제어문3_자가4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/연산자_연습2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/연산자_연습2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungol/정리/연산자_연습6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungol/정리/연산자_연습6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,13 +37,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kimsj18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kimsj18/java-basic.git&quot;,
+    &quot;accountId&quot;: &quot;2c238059-72f7-4451-934d-ea9ae76e17cd&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/day2/totalcalss.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -284,192 +75,200 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.A_Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitOperatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BooleanEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BreajEx02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BreakEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BreakEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BufferdReaderWriter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculaator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculaor2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CatMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompareOperatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConditionEx01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContinueEx.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DoWhileEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulatonMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Example01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatDoubleEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FourArithmetic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloFava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homeword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfinityAndNaNCheckEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeyControlEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopEx01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopEx02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoopStarEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Loop_ForEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main509.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main510.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main511.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main512.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main513.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main518.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main519.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main520.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main522.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main549.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main551.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main553.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main554.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main634.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9019.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9021.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9022.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main9023.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiArrayEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OverflowUnderflowEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PerformenceEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PersonMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimitiveAndStringEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PromotionEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RefVarEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SignOperatorEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBufferEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringConcatEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPerfoEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSpritEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringStringBufferStringBuilderEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTokenEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test099.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileEx01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.addSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.day3.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exampleTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exampleTest10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.integerLiteralEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.jungol.반복제어문2.자가1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.jungol.배열2.연습7.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.moningtest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.re.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sdf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sdfsf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.teat2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test122.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test123.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tlftmq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.totalcalss.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문1_연습2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문1_자가2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문1_자가3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문1_자가4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문3_연습2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문3_자가1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문3_자가2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.반복제어문3_자가3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문3_자가4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문_연습3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.반복제어문_자가1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.선택제어문_연습9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.스위치Ex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연산자_연습2_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연산자_연습6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습3_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.연습8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.오픈테스트.executor&quot;: &quot;Run&quot;,
-    &quot;Application.입력_연습7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.입력_연습8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.입력_자가6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.입력_자가7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가6.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.자가7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가7질문.executor&quot;: &quot;Run&quot;,
-    &quot;Application.자가8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성10다시.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성1다시.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.형성9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/study/java/java-basic/src/day3/moningtest&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/study/java/java-basic/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/study/java/java-basic/src/day3/moningtest&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.A_Main.executor": "Run",
+    "Application.AddSum.executor": "Run",
+    "Application.AllStaticTest.executor": "Run",
+    "Application.ArrayCapByforEx.executor": "Run",
+    "Application.ArrayEx01.executor": "Run",
+    "Application.AssignmentOperatorEx.executor": "Run",
+    "Application.BestVOModeling.executor": "Run",
+    "Application.BitOperatorEx.executor": "Run",
+    "Application.BooleanEx.executor": "Run",
+    "Application.BreajEx02.executor": "Run",
+    "Application.BreakEx.executor": "Run",
+    "Application.BreakEx2.executor": "Run",
+    "Application.BufferdReaderWriter.executor": "Run",
+    "Application.Calculaator.executor": "Run",
+    "Application.Calculaor2.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Calculator2.executor": "Run",
+    "Application.CalculatorMain.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.CatMain.executor": "Run",
+    "Application.CharEx.executor": "Run",
+    "Application.CompareOperatorEx.executor": "Run",
+    "Application.ConditionEx01.executor": "Run",
+    "Application.ContinueEx.executor": "Debug",
+    "Application.DoWhileEx.executor": "Run",
+    "Application.EncapsulatonMain.executor": "Run",
+    "Application.Example01.executor": "Run",
+    "Application.FloatDoubleEx.executor": "Run",
+    "Application.FourArithmetic.executor": "Run",
+    "Application.HelloFava.executor": "Run",
+    "Application.Homeword.executor": "Run",
+    "Application.Homework1.executor": "Run",
+    "Application.Homework2.executor": "Run",
+    "Application.Homework3.executor": "Run",
+    "Application.Homework4.executor": "Run",
+    "Application.Homework5.executor": "Run",
+    "Application.Homework6.executor": "Run",
+    "Application.Homework7.executor": "Run",
+    "Application.InfinityAndNaNCheckEx.executor": "Run",
+    "Application.IngerMain.executor": "Run",
+    "Application.KeyControlEx.executor": "Run",
+    "Application.LogicalOperatorEx.executor": "Run",
+    "Application.LoopEx01.executor": "Run",
+    "Application.LoopEx02.executor": "Run",
+    "Application.LoopStarEx.executor": "Run",
+    "Application.Loop_ForEx.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main509.executor": "Run",
+    "Application.Main510.executor": "Run",
+    "Application.Main511.executor": "Run",
+    "Application.Main512.executor": "Run",
+    "Application.Main513.executor": "Run",
+    "Application.Main518.executor": "Run",
+    "Application.Main519.executor": "Run",
+    "Application.Main520.executor": "Run",
+    "Application.Main522.executor": "Run",
+    "Application.Main549.executor": "Run",
+    "Application.Main551.executor": "Run",
+    "Application.Main553.executor": "Run",
+    "Application.Main554.executor": "Run",
+    "Application.Main634.executor": "Run",
+    "Application.Main9009.executor": "Run",
+    "Application.Main9010.executor": "Run",
+    "Application.Main9011.executor": "Run",
+    "Application.Main9012.executor": "Run",
+    "Application.Main9013.executor": "Run",
+    "Application.Main9018.executor": "Run",
+    "Application.Main9019.executor": "Run",
+    "Application.Main9021.executor": "Run",
+    "Application.Main9022.executor": "Run",
+    "Application.Main9023.executor": "Run",
+    "Application.MovieMain.executor": "Run",
+    "Application.MultiArrayEx.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.OverflowUnderflowEx.executor": "Run",
+    "Application.PerformenceEx.executor": "Run",
+    "Application.PersonMain.executor": "Run",
+    "Application.PrimitiveAndStringEx.executor": "Run",
+    "Application.PromotionEx.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.RandomEx.executor": "Run",
+    "Application.RefVarEx.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.ScannerEx.executor": "Run",
+    "Application.SignOperatorEx.executor": "Run",
+    "Application.SingletonEx.executor": "Run",
+    "Application.StringBufferEx.executor": "Run",
+    "Application.StringConcatEx.executor": "Run",
+    "Application.StringEx.executor": "Run",
+    "Application.StringEx1.executor": "Run",
+    "Application.StringPerfoEx.executor": "Run",
+    "Application.StringSpritEx.executor": "Run",
+    "Application.StringStringBufferStringBuilderEx.executor": "Run",
+    "Application.StringTokenEx.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test07.executor": "Run",
+    "Application.Test08.executor": "Run",
+    "Application.Test09.executor": "Run",
+    "Application.Test099.executor": "Run",
+    "Application.Test_Class.executor": "Run",
+    "Application.WeekMain.executor": "Run",
+    "Application.WhileEx01.executor": "Run",
+    "Application.addSum.executor": "Run",
+    "Application.day3.Calculator.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.exampleTest03.executor": "Run",
+    "Application.exampleTest10.executor": "Run",
+    "Application.integerLiteralEx.executor": "Run",
+    "Application.jungol.반복제어문2.자가1.executor": "Run",
+    "Application.jungol.배열2.연습7.executor": "Debug",
+    "Application.moningtest.executor": "Run",
+    "Application.re.executor": "Run",
+    "Application.sdf.executor": "Run",
+    "Application.sdfsf.executor": "Run",
+    "Application.teat2.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test122.executor": "Run",
+    "Application.test123.executor": "Run",
+    "Application.tlftmq.executor": "Run",
+    "Application.totalcalss.executor": "Run",
+    "Application.반복4.executor": "Run",
+    "Application.반복제어문1_연습2.executor": "Run",
+    "Application.반복제어문1_자가2.executor": "Run",
+    "Application.반복제어문1_자가3.executor": "Run",
+    "Application.반복제어문1_자가4.executor": "Run",
+    "Application.반복제어문3_연습2.executor": "Run",
+    "Application.반복제어문3_자가1.executor": "Run",
+    "Application.반복제어문3_자가2.executor": "Debug",
+    "Application.반복제어문3_자가3.executor": "Run",
+    "Application.반복제어문3_자가4.executor": "Run",
+    "Application.반복제어문_연습3.executor": "Run",
+    "Application.반복제어문_자가1.executor": "Run",
+    "Application.선택제어문_연습1.executor": "Run",
+    "Application.선택제어문_연습2.executor": "Run",
+    "Application.선택제어문_연습3.executor": "Run",
+    "Application.선택제어문_연습5.executor": "Run",
+    "Application.선택제어문_연습6.executor": "Run",
+    "Application.선택제어문_연습7.executor": "Run",
+    "Application.선택제어문_연습9.executor": "Run",
+    "Application.스위치Ex.executor": "Run",
+    "Application.연산자_연습2_2.executor": "Run",
+    "Application.연산자_연습6.executor": "Run",
+    "Application.연습1.executor": "Run",
+    "Application.연습2.executor": "Run",
+    "Application.연습3.executor": "Run",
+    "Application.연습3_3.executor": "Run",
+    "Application.연습4.executor": "Run",
+    "Application.연습5.executor": "Run",
+    "Application.연습5_1.executor": "Run",
+    "Application.연습5_2.executor": "Run",
+    "Application.연습6.executor": "Run",
+    "Application.연습7.executor": "Run",
+    "Application.연습8.executor": "Run",
+    "Application.오픈테스트.executor": "Run",
+    "Application.입력_연습7.executor": "Run",
+    "Application.입력_연습8.executor": "Run",
+    "Application.입력_자가6.executor": "Run",
+    "Application.입력_자가7.executor": "Run",
+    "Application.자가1.executor": "Run",
+    "Application.자가2.executor": "Run",
+    "Application.자가3.executor": "Run",
+    "Application.자가4.executor": "Run",
+    "Application.자가5.executor": "Run",
+    "Application.자가6.executor": "Debug",
+    "Application.자가7.executor": "Run",
+    "Application.자가7질문.executor": "Run",
+    "Application.자가8.executor": "Run",
+    "Application.형성1.executor": "Run",
+    "Application.형성10.executor": "Run",
+    "Application.형성10다시.executor": "Run",
+    "Application.형성1다시.executor": "Run",
+    "Application.형성2.executor": "Run",
+    "Application.형성3.executor": "Run",
+    "Application.형성4.executor": "Run",
+    "Application.형성5.executor": "Run",
+    "Application.형성6.executor": "Run",
+    "Application.형성7.executor": "Run",
+    "Application.형성8.executor": "Run",
+    "Application.형성9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/study/java/java-basic/src/day3/moningtest",
+    "onboarding.tips.debug.path": "C:/study/java/java-basic/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "two.files.diff.last.used.file": "C:/study/java/java-basic/src/day3/moningtest"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\study\java\java-basic\src\day3" />
@@ -481,13 +280,13 @@
       <recent name="day10.package1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A_Main">
-    <configuration name="A_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.package3.A_Main" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="AllStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.AllStaticTest" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.package3.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -495,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.CarMain" />
+    <configuration name="IngerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.Inheritance.IngerMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.AAA.*" />
+          <option name="PATTERN" value="day12.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovieMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.MovieMain" />
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasicBook.Sample" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.dto.*" />
+          <option name="PATTERN" value="JavaBasicBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10.PersonMain" />
+    <configuration name="SingletonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.SingletonEx" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10.dto.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -534,12 +333,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jungol.배열2.연습7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungol.배열2.연습7" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.test" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungol.배열2.*" />
+          <option name="PATTERN" value="day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -549,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A_Main" />
-        <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.PersonMain" />
-        <item itemvalue="Application.MovieMain" />
-        <item itemvalue="Application.jungol.배열2.연습7" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.IngerMain" />
+        <item itemvalue="Application.SingletonEx" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.AllStaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -590,12 +389,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736322444388</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1737509822953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737509822953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;first commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;" />
+    <MESSAGE value="&quot;first commit&quot;&#10;git push origin" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;&#10;git push origin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,6 +602,21 @@
           <url>file://$PROJECT_DIR$/src/day10/PersonMain.java</url>
           <line>2</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day10/CarMain.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day11/BestVOModeling.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaBasicBook/Sample.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
