@@ -16,8 +16,8 @@ public class Drink {
         System.out.println("상품명    단가    수량    금액");
     }
 
-    void printData(String a,int b, int c){
-        System.out.printf(this.name+"   "+this.count+"    "+this.price);
+    void printData(){
+        System.out.print(this.name+"   "+this.count+"    "+this.price*this.count);
     }
     void getTotalPrice(){
 

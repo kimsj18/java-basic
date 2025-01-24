@@ -22,7 +22,7 @@ public class Prob1 {
 		//		  + wine.getTotalPrice();
 
 		System.out.println();
-		System.out.println("*** 총금액 " + sum + "원 ***");
+		//System.out.println("*** 총금액 " + sum + "원 ***");
 
 	}
 }

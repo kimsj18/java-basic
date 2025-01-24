@@ -5,37 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin">
-      <change afterPath="$PROJECT_DIR$/src/day13/AnimalEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/CirCleCal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/CircleCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/home/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/home/BookMgr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/home/Prob1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/home/Prob2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/home/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/SmartPhone2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance04/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance04/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Alcohol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Prob1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13/개념설명" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/CalculatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13/inheritance실습/Drink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Drink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13/inheritance실습/Prob1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Prob1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -432,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737619073145</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1737709475042</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737709475042</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
