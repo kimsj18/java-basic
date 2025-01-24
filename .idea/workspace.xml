@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin" />
+    <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin">
+      <change afterPath="$PROJECT_DIR$/src/day13/AnimalEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/CirCleCal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/CircleCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Inheritance05/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/home/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/home/BookMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/home/Prob1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/home/Prob2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/home/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance02/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance03/SmartPhone2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance04/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance04/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Alcohol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Prob1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/inheritance실습/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/개념설명" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day12/Inheritance/IngerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/CalculatorMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +89,9 @@
     "Application.A_Main.executor": "Run",
     "Application.AddSum.executor": "Run",
     "Application.AllStaticTest.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.Animal1.executor": "Run",
+    "Application.AnimalEx.executor": "Run",
     "Application.ArrayCapByforEx.executor": "Run",
     "Application.ArrayEx01.executor": "Run",
     "Application.AssignmentOperatorEx.executor": "Run",
@@ -75,7 +110,9 @@
     "Application.CarMain.executor": "Run",
     "Application.CatMain.executor": "Run",
     "Application.CharEx.executor": "Run",
+    "Application.CirCleCal1.executor": "Run",
     "Application.CompareOperatorEx.executor": "Run",
+    "Application.Computer.executor": "Run",
     "Application.ConditionEx01.executor": "Run",
     "Application.ContinueEx.executor": "Debug",
     "Application.DoWhileEx.executor": "Run",
@@ -133,6 +170,8 @@
     "Application.PerformenceEx.executor": "Run",
     "Application.PersonMain.executor": "Run",
     "Application.PrimitiveAndStringEx.executor": "Run",
+    "Application.Prob1.executor": "Run",
+    "Application.Prob2.executor": "Run",
     "Application.PromotionEx.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.RandomEx.executor": "Run",
@@ -158,6 +197,7 @@
     "Application.WeekMain.executor": "Run",
     "Application.WhileEx01.executor": "Run",
     "Application.addSum.executor": "Run",
+    "Application.day13.inheritance실습.Prob1.executor": "Run",
     "Application.day3.Calculator.executor": "Run",
     "Application.ex1.executor": "Run",
     "Application.exampleTest03.executor": "Run",
@@ -240,7 +280,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/study/java/java-basic/src/day3/moningtest",
+    "last_opened_file_path": "C:/study/java/java-basic/src/day13",
     "onboarding.tips.debug.path": "C:/study/java/java-basic/src/Main.java",
     "settings.editor.selected.configurable": "preferences.editor",
     "two.files.diff.last.used.file": "C:/study/java/java-basic/src/day3/moningtest"
@@ -248,6 +288,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\study\java\java-basic\src\day13" />
+      <recent name="C:\study\java\java-basic\src\day13\inheritance03" />
       <recent name="C:\study\java\java-basic\src\day3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -257,13 +299,13 @@
       <recent name="day10.package1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="AllStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.AllStaticTest" />
+  <component name="RunManager" selected="Application.day13.inheritance실습.Prob1">
+    <configuration name="CirCleCal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.Inheritance05.CirCleCal1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.Inheritance05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IngerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.Inheritance.IngerMain" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.Inheritance05.Computer" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.Inheritance.*" />
+          <option name="PATTERN" value="day13.Inheritance05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasicBook.Sample" />
+    <configuration name="Prob1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.home.Prob1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaBasicBook.*" />
+          <option name="PATTERN" value="day13.home.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.SingletonEx" />
+    <configuration name="Prob2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.home.Prob2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.home.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.test" />
+    <configuration name="day13.inheritance실습.Prob1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.inheritance실습.Prob1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.inheritance실습.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.IngerMain" />
-        <item itemvalue="Application.SingletonEx" />
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.AllStaticTest" />
+        <item itemvalue="Application.day13.inheritance실습.Prob1" />
+        <item itemvalue="Application.Prob2" />
+        <item itemvalue="Application.Prob1" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.CirCleCal1" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737619026528</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1737619073145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737619073145</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -603,6 +653,11 @@
           <line>2</line>
           <option name="timeStamp" value="110" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day13/home/Prob1.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="3" />
@@ -610,6 +665,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.IllegalFormatConversionException" package="java.util" />
           <option name="timeStamp" value="13" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="111" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day9/Example01.java</url>
