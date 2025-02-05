@@ -1,0 +1,11 @@
+package day0203.day01;
+
+public class Car1 {
+    public Tire tire;
+
+    public void run(){
+        tire.roll();    //타이어를 끼어놓으면 자동차가 움직인다.
+    }
+
+
+}
