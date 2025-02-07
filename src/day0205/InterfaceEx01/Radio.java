@@ -2,7 +2,7 @@ package day0205.InterfaceEx01;
 
 public class Radio implements RemoteControl{
     private int volume;
-
+    
     @Override
     public void turnOn() {
         System.out.println("라디오 켠다.");
@@ -29,6 +29,20 @@ public class Radio implements RemoteControl{
         System.out.println("현재 Radio 볼륨은 "+this.volume);
     }
 
+    private int mamoryVolume;
+
+    //내가 사용했던 이전 볼륨을 기억했다가 쉿모드 해제 이후에 다시 복원
+    @Override
+    public void setMute(boolean mute) {
+       if(mute){
+           this.mamoryVolume = this.volume;
+           System.out.println("쉿모드 작동");
+           setVolume(RemoteControl.MIN_VOLUME);
+       }else{
+           System.out.println("쉿모드 해제");
+           setVolume(this.mamoryVolume);    //원래 볼륨으로 복원
+       }
     }
+}
 
 

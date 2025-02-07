@@ -1,5 +1,7 @@
 package day0205.InterfaceEx01;
 
+import java.security.PublicKey;
+
 public interface RemoteControl {
 
     //상수선언
@@ -12,4 +14,22 @@ public interface RemoteControl {
 
     public abstract void setVolume(int volume); //볼륨 세팅
 
+    //내가 사용했던 이전 볼륨을 기억했다가 쉿모드 해제 이후에 다시 복원
+//    void setMute(boolean mute);
+
+    default void setMute(boolean mute) {     //디폴트 구현 객체가 필요한 메소드
+        if (mute) {
+            System.out.println("쉿 모드 전환");
+            setVolume(MIN_VOLUME);
+        } else {
+            System.out.println("쉿 모드 해제");
+        }
+    }
+    //배터리 교체 기능을 정적메소드를 통하여 구현 changeBattert()
+    public static void changBattert(){
+        System.out.println("배터리교체");
+    }
+    
+
+        
 }

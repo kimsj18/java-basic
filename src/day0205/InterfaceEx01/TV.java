@@ -27,4 +27,9 @@ public class TV implements RemoteControl{   //추상메소드 오버라이딩 �
         }
         System.out.println("현재 tv 볼륨은 "+this.volume);
     }
+
+    @Override
+    public void setMute(boolean mute) {
+
+    }
 }
