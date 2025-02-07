@@ -5,55 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin">
-      <change afterPath="$PROJECT_DIR$/src/day0205/AnimalTest/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/AnimalTest/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/AnimalTest/Cheatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/AnimalTest/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/AnimalTest/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/Cafe/예제" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/FactoryExample/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/FactoryExample/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/FactoryExample/FactoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/FactoryExample/IWorkingTogether.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/FactoryExample/TVFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0205/InstanceOfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/Car1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/HankookTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/KumhoTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/ABCImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/interfaceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/실습/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/실습/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/실습/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx03/실습/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/DriverMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/Hourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/VehicleEx/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex1/Remocon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex1/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex2/Soundable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex2/SoundableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex3/DaoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex3/DataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex3/MySqlDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/ex3/OracleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day0206/인터페이스 상속" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remind/day250206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex04/ABMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex05/ABLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex05/refact/ABLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/basic/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/basic/HamburgerLotteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/builderpattern/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/builderpattern/HamburgerLotteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/javabeans/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/javabeans/HamburgerLotteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex06/lombok/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex1/ABMacin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex2/ABMacin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex3/CreatureMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex3/CreatureMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/ex3/refact/CreatureMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/student/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0207/중첩익명개체" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasicBook/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasicBook/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day0205/InterfaceEx01/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0205/InterfaceEx01/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day0205/InterfaceEx01/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0205/InterfaceEx01/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day0205/InterfaceEx01/RemoteControlMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0205/InterfaceEx01/RemoteControlMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day0205/InterfaceEx01/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0205/InterfaceEx01/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day0205/인터페이스" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0205/인터페이스" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0206/InterfaceEx02/HankookTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0206/InterfaceEx02/HankookTire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +80,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ABLocalMain.executor": "Run",
+    "Application.ABMacin.executor": "Run",
     "Application.A_Main.executor": "Run",
     "Application.AddSum.executor": "Run",
     "Application.AllStaticTest.executor": "Run",
@@ -136,6 +113,7 @@
     "Application.Computer.executor": "Run",
     "Application.ConditionEx01.executor": "Run",
     "Application.ContinueEx.executor": "Debug",
+    "Application.CreatureMain2.executor": "Run",
     "Application.DaoExample.executor": "Run",
     "Application.DoWhileEx.executor": "Run",
     "Application.DriverMain.executor": "Run",
@@ -144,6 +122,7 @@
     "Application.FactoryExample.executor": "Run",
     "Application.FloatDoubleEx.executor": "Run",
     "Application.FourArithmetic.executor": "Run",
+    "Application.HamburgerLotteria.executor": "Debug",
     "Application.HelloFava.executor": "Run",
     "Application.Homeword.executor": "Run",
     "Application.Homework1.executor": "Run",
@@ -161,7 +140,7 @@
     "Application.LoopEx02.executor": "Run",
     "Application.LoopStarEx.executor": "Run",
     "Application.Loop_ForEx.executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.Main1.executor": "Run",
     "Application.Main509.executor": "Run",
     "Application.Main510.executor": "Run",
@@ -227,6 +206,8 @@
     "Application.addSum.executor": "Run",
     "Application.day0206.InterfaceEx02.InterfaceEx02.Car1Main.executor": "Run",
     "Application.day0206.VehicleEx.DriverMain.executor": "Run",
+    "Application.day0207.ex06.javabeans.HamburgerLotteria.executor": "Run",
+    "Application.day0207.ex2.ABMacin.executor": "Debug",
     "Application.day13.inheritance실습.Prob1.executor": "Run",
     "Application.day250206.executor": "Run",
     "Application.day3.Calculator.executor": "Run",
@@ -306,24 +287,31 @@
     "Application.형성7.executor": "Run",
     "Application.형성8.executor": "Run",
     "Application.형성9.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/study/java/java-basic/src/VehidEx",
+    "last_opened_file_path": "C:/Users/a/Downloads/lombok",
     "onboarding.tips.debug.path": "C:/study/java/java-basic/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "two.files.diff.last.used.file": "C:/study/java/java-basic/src/day3/moningtest"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\study\java\java-basic\src\VehidEx" />
-      <recent name="C:\study\java\java-basic\src" />
-      <recent name="C:\study\java\java-basic\src\day13" />
-      <recent name="C:\study\java\java-basic\src\day13\inheritance03" />
-      <recent name="C:\study\java\java-basic\src\day3" />
+      <recent name="C:\study\java\java-basic\src\day0207\ex06\builderpattern" />
+      <recent name="C:\study\java\java-basic\src\day0207\ex06" />
+      <recent name="C:\study\java\java-basic\src\day0207\ex06\basic" />
+      <recent name="C:\study\java\java-basic\src\day0207\ex05\refact" />
+      <recent name="C:\study\java\java-basic\src\day0207\ex3\refact" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\study\java\java-basic\src\day2" />
@@ -334,13 +322,13 @@
       <recent name="day10.package1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day250206">
-    <configuration name="DaoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0206.ex3.DaoExample" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ABMacin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0207.ex1.ABMacin" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0206.ex3.*" />
+          <option name="PATTERN" value="day0207.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0205.FactoryExample.FactoryExample" />
+    <configuration name="HamburgerLotteria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0207.ex06.builderpattern.HamburgerLotteria" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0205.FactoryExample.*" />
+          <option name="PATTERN" value="day0207.ex06.builderpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,11 +350,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day0206.InterfaceEx03.실습.Main" />
+      <option name="MAIN_CLASS_NAME" value="day0207.student.Main" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day0206.InterfaceEx03.실습.*" />
+          <option name="PATTERN" value="day0207.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +362,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample7" />
+    <configuration name="day0207.ex06.javabeans.HamburgerLotteria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0207.ex06.javabeans.HamburgerLotteria" />
       <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day0207.ex06.javabeans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day250206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="remind.day250206" />
+    <configuration name="day0207.ex2.ABMacin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day0207.ex2.ABMacin" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="remind.*" />
+          <option name="PATTERN" value="day0207.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.day250206" />
-        <item itemvalue="Application.Sample7" />
-        <item itemvalue="Application.FactoryExample" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DaoExample" />
+        <item itemvalue="Application.HamburgerLotteria" />
+        <item itemvalue="Application.day0207.ex06.javabeans.HamburgerLotteria" />
+        <item itemvalue="Application.day0207.ex2.ABMacin" />
+        <item itemvalue="Application.ABMacin" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738726647230</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1738888518516</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738888518516</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -721,6 +723,16 @@
           <line>94</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0207/ex2/ABMacin.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day0207/ex06/builderpattern/HamburgerLotteria.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="3" />
@@ -750,6 +762,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day0207/ex2/ABMacin.java</url>
+          <line>3</line>
+          <properties class="day0207.ex2.ABMacin" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day0207/ex06/builderpattern/HamburgerLotteria.java</url>
+          <line>5</line>
+          <properties class="day0207.ex06.builderpattern.HamburgerLotteria" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
