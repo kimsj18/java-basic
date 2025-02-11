@@ -5,22 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="075c4169-c5cb-4859-92b5-68c81f744d44" name="Changes" comment="&quot;first commit&quot;&#10;git push origin">
-      <change afterPath="$PROJECT_DIR$/src/day2010/2010" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/dataEx/CalendarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/dataEx/DataExa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/dataEx/dateTimeOperatorEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/formatEx/FormatEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/lombokEx/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/lombokEx/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/Member1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/Member1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/MemberMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/objectEx/UserMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/reflectionEx/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2010/api/systemEx/ExitEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -290,6 +274,8 @@
     "Application.형성8.executor": "Run",
     "Application.형성9.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender가 IDE에 영향을 줄 수 있습니다",
+    "Notification.DoNotAsk-WindowsDefender": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -300,7 +286,7 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/a/Downloads/lombok",
     "onboarding.tips.debug.path": "C:/study/java/java-basic/src/Main.java",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
@@ -324,7 +310,7 @@
       <recent name="day10.package1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sample">
+  <component name="RunManager" selected="애플리케이션.CalendarEx">
     <configuration name="CalendarEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2010.api.dataEx.CalendarEx" />
       <module name="java-basic" />
@@ -390,15 +376,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.FormatEx" />
-        <item itemvalue="Application.dateTimeOperatorEx" />
-        <item itemvalue="Application.CalendarEx" />
-        <item itemvalue="Application.DataExa" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -497,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738920250543</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;first commit&quot;&#10;git push origin">
+      <option name="closed" value="true" />
+      <created>1739179197170</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739179197170</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -752,6 +737,11 @@
           <url>file://$PROJECT_DIR$/src/day2010/api/formatEx/FormatEx.java</url>
           <line>14</line>
           <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2010/api/objectEx/Member.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
